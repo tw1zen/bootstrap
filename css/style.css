@@ -1,0 +1,23 @@
+/* CodeStyle
+1 - position
+2 - display
+3 - width
+4 - margin padding
+5 - все остальное
+*/
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif; 
+}
+
+a {
+    text-decoration: none;
+}
